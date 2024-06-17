@@ -39,3 +39,7 @@ Funcionamento:
 O Arduino simula diferentes níveis de qualidade do ar de 0 a 5.
 A cada iteração, o nível é incrementado circularmente.
 A mensagem correspondente a cada nível é exibida no display LCD de 16x2.
+
+*Link do TinkerCad 
+
+https://www.tinkercad.com/things/eL5Sav34bOf-smashing-hillar/editel?sharecode=Cphohrsjhh1B5OVEFw3p7HvUyaxiyBgvv1Cfpz_ysOI
