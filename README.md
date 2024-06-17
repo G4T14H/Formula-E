@@ -1,4 +1,15 @@
 # Formula-E
+Nomes e RM.
+Gabriel Frageri Dias RM-556830
+
+Gustavo Teixeira RM-557876
+
+Pedro Paulo Garcia Silva RM-554880 
+
+Pedro Pawlik Ferrari RM-556968
+
+TRABALHO -----------------------------------------------------------------------------------
+
 Monitor de Qualidade do Ar com LCD
 Este projeto utiliza um Arduino com um display LCD para simular e exibir diferentes níveis de qualidade do ar. Cada nível é representado por uma mensagem específica no LCD, e a simulação é feita através de um ciclo contínuo que varia a qualidade do ar de 0 a 5.
 
